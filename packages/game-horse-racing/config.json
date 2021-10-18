@@ -1,0 +1,15 @@
+{
+    "id": "game-horse-racing",
+    "name": "Horse Racing",
+    "description": "This add-on implements Horse Racing game.",
+    "providers": [
+        "Packages\\GameHorseRacing\\Providers\\PackageServiceProvider"
+    ],
+    "base_path": "game-horse-racing",
+    "source_path": "src",
+    "namespace": "Packages\\GameHorseRacing\\",
+    "static": {},
+    "purchase_url": "https://codecanyon.net/item/horse-racing-game-addon-for-crypto-casino/29621644",
+    "min_app_version": "1.17.0",
+    "hash": "7dcfb0e3f9f02284d471a3daae7265ec"
+}
